@@ -7,6 +7,8 @@
     
 
     function storeBrowseController( ngCart ) {
+        console.log('Hi There 2');
+        
         ngCart.setTaxRate(7.5);
         ngCart.setShipping(2.99);
     }

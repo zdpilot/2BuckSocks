@@ -1,5 +1,4 @@
 (function () {
-    console.log('Hi There');
     angular.module('myApp')
         .component('homePage', {
             templateUrl: 'components/HTML/home-page.html',
@@ -8,6 +7,6 @@
 
 
     function homeController() {
-        console.log('Hi There 2');
+        console.log('Hi There');
     }
 })();
