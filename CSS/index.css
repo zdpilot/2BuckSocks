@@ -6,3 +6,14 @@ h3 span {font-size:14px; display:block;}
 span[ng-click] {
     cursor: pointer;
 }
+.summary {
+    top: 20px;
+}
+.icon {
+    float: left;
+}
+.checkoutButton {
+    float: right;
+    right: 100px;
+    top: 25px;
+}
