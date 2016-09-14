@@ -11,9 +11,12 @@ span[ng-click] {
 }
 .icon {
     float: left;
+    cursor: pointer;
 }
-.checkoutButton {
+.switchButton {
     float: right;
     right: 100px;
-    top: 25px;
+    margin-top: 50px;
+    margin-right: 150px;
+    border-radius: 5px;
 }
