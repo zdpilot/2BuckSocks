@@ -6,3 +6,17 @@ h3 span {font-size:14px; display:block;}
 span[ng-click] {
     cursor: pointer;
 }
+.summary {
+    top: 20px;
+}
+.icon {
+    float: left;
+    cursor: pointer;
+}
+.switchButton {
+    float: right;
+    right: 100px;
+    margin-top: 50px;
+    margin-right: 150px;
+    border-radius: 5px;
+}
